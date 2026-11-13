@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1794579328 source:/home/pedagogico/Documentos/trab3alunos/main.c
+	<stdio.h>
+	<sqlite3.h>
+
